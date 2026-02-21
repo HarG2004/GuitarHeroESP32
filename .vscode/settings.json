@@ -16,5 +16,6 @@
     "--query-driver=**",
     "--compile-commands-dir=c:\\Users\\Harjap\\projects\\learning\\ESP32Learning\\ExampleProject\\build"
   ],
-  "idf.flashType": "UART"
+  "idf.flashType": "UART",
+  "idf.currentSetup": "C:\\Users\\Harjap\\esp\\v5.5.1\\esp-idf"
 }

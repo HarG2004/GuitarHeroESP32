@@ -1,8 +1,8 @@
 
 #include "driver/i2c_master.h"
 
-#define I2C_MASTER_SCL_IO  GPIO_NUM_14
-#define I2C_MASTER_SDA_IO  GPIO_NUM_13
+#define I2C_MASTER_SCL_IO  GPIO_NUM_21
+#define I2C_MASTER_SDA_IO  GPIO_NUM_22
 #define I2C_PORT           I2C_NUM_0
 #define I2C_FREQ_HZ        100000
 #define SLAVE_ADDRESS_LCD  0x27
